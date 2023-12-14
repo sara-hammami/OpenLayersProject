@@ -19,4 +19,4 @@ Before running the project, ensure you have the following dependencies installed
    -Start Geoserver and complete the part of  loading  and publishing  vector and raster data on GeoServer
 
 ## ScreenShots related tp the project : 
-![Map view]([images/Capture.PNG])
+![Map view](images/Capture.PNG)
