@@ -18,5 +18,7 @@ Before running the project, ensure you have the following dependencies installed
 3. **Geoserver:**
    -Start Geoserver and complete the part of  loading  and publishing  vector and raster data on GeoServer
 
-## ScreenShots related tp the project : 
+## ScreenShots related tp the project :
 ![Map view](images/Capture.PNG)
+## Contributors:
+- **[Asma Abidalli](asma.abidalli@supcom.tn)**
